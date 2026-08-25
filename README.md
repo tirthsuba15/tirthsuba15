@@ -16,9 +16,8 @@ Currently: designing and building a 4-DOF desktop robotic arm from scratch — p
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tirthsuba15&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthsuba15&layout=compact&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tirthsuba15&hide_border=true)
+![GitHub stats](stats.svg)
+![Top langs](langs.svg)
 
 ## Interests
 
