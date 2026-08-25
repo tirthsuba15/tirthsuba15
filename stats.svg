@@ -11,8 +11,8 @@
   <text x="20" y="62" class="value">11</text>
   <text x="20" y="80" class="label">Public Repos</text>
 
-  <text x="120" y="62" class="value">4</text>
-  <text x="120" y="80" class="label">Stars Earned</text>
+  <text x="120" y="62" class="value">6</text>
+  <text x="120" y="80" class="label">Languages Used</text>
 
   <text x="210" y="62" class="value">467</text>
   <text x="210" y="80" class="label">Contributions</text>
@@ -21,5 +21,5 @@
   <text x="320" y="80" class="label">Longest Streak</text>
 
   <line x1="20" y1="98" x2="400" y2="98" stroke="#21262d" stroke-width="1"/>
-  <text x="20" y="116" class="label">tirthsuba15 &#8226; updated 2026-08-25</text>
+  <text x="20" y="116" class="label">github.com/tirthsuba15</text>
 </svg>
