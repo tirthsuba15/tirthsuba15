@@ -1,25 +1,25 @@
-<svg width="420" height="130" viewBox="0 0 420 130" xmlns="http://www.w3.org/2000/svg">
+<svg width="460" height="130" viewBox="0 0 460 130" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
     .title { fill: #58a6ff; font: 600 15px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
     .label { fill: #8b949e; font: 400 12px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
     .value { fill: #e6edf3; font: 700 20px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
   </style>
-  <rect class="bg" x="0.5" y="0.5" width="419" height="129" rx="10"/>
+  <rect class="bg" x="0.5" y="0.5" width="459" height="129" rx="10"/>
   <text x="20" y="30" class="title">GitHub Stats</text>
 
   <text x="20" y="62" class="value">11</text>
   <text x="20" y="80" class="label">Public Repos</text>
 
-  <text x="120" y="62" class="value">6</text>
-  <text x="120" y="80" class="label">Languages Used</text>
+  <text x="130" y="62" class="value">6</text>
+  <text x="130" y="80" class="label">Languages</text>
 
-  <text x="210" y="62" class="value">467</text>
-  <text x="210" y="80" class="label">Contributions</text>
+  <text x="220" y="62" class="value">467</text>
+  <text x="220" y="80" class="label">Contributions</text>
 
-  <text x="320" y="62" class="value">12</text>
-  <text x="320" y="80" class="label">Longest Streak</text>
+  <text x="340" y="62" class="value">12</text>
+  <text x="340" y="80" class="label">Longest Streak</text>
 
-  <line x1="20" y1="98" x2="400" y2="98" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="98" x2="440" y2="98" stroke="#21262d" stroke-width="1"/>
   <text x="20" y="116" class="label">github.com/tirthsuba15</text>
 </svg>
